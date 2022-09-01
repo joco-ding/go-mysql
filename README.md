@@ -1,4 +1,4 @@
-# go-mysql
+# Go dan MySQL
 
 Cara menghubungkan aplikasi go dengan MySQL
 
